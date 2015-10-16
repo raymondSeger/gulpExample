@@ -1,0 +1,1 @@
+{"version":3,"sources":["indexStyle.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACJ,KAAK,EAAE,GAAI,GADN;;AAIN,KAAK,CAAC;EACL,KAAK,EAAE,IAAK,GADN;;AAIP,MAAM,CAAC;EACN,KAAK,EAAE,KAAM,GADN","file":"indexStyle.css","sourcesContent":[".red {\r\n\tcolor: red;\r\n}\r\n\r\n.blue {\r\n\tcolor: blue;\r\n}\r\n\r\n.green {\r\n\tcolor: green;\r\n}"],"sourceRoot":"/source/"}
